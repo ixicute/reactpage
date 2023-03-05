@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactpage/static/css/main.0db2260b.css",
+    "main.js": "/reactpage/static/js/main.7a2a3202.js",
+    "static/media/aldor.png": "/reactpage/static/media/aldor.158620e0b076c2ea9f99.png",
+    "static/media/CV.pdf": "/reactpage/static/media/CV.295937096ba4f521040e.pdf",
+    "static/media/herobg.jpg": "/reactpage/static/media/herobg.5f7c3e73ff549569b833.jpg",
+    "index.html": "/reactpage/index.html",
+    "main.0db2260b.css.map": "/reactpage/static/css/main.0db2260b.css.map",
+    "main.7a2a3202.js.map": "/reactpage/static/js/main.7a2a3202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db2260b.css",
+    "static/js/main.7a2a3202.js"
+  ]
+}
