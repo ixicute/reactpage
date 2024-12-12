@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "aug 2022 - jan 2023",
+        "company": "T&M Frisörsalong",
+        "position": "Affärsutvecklare",
+        "description": "Ett uppdrag på 5 månader där jag hjälpte frisörsalongen att växa och få nya kunder samt öka försäljningen med hjälp av flera lyckade digitala-kampanjer. Jag har dessutom hjälpt till med att implementera nya tjänster som saknades inom närområdet."
+    },
+    {
+        "id": 2,
+        "date": "maj 2022 - jun 2022",
+        "company": "Violett Bilvård AB",
+        "position": "Webbutvecklare",
+        "description": "Uppdraget gick på att skapa en modern hemsida åt företaget samt se över prissättningen på de olika tjänster som erbjöds. Jag har dessutom hjälpt till med att driva ett lyckat kampanj riktat mot andra företag inom bilhandelbranschen."
+    },
+    {
+        "id": 3,
+        "date": "mar 2020 - jun 2020",
+        "company": "Äldreboenden",
+        "position": "Undersköterska",
+        "description": "Jag arbetade som timanställd på flera äldreboenden, både i Sundsvalls- och Timrås kommun, där jag fick hjälpa vårdtagarna med allt från städning av rum till personlig hygien och matlagning."
+    },
+    {
+        "id": 4,
+        "date": "apr 2013 - aug 2014",
+        "company": "Jensen Production",
+        "position": "Produktionsassistent",
+        "description": "Jag arbetade med att tolka under intervjuerna samt översätta samtalen under produktionen. Dessutom hjälpte jag till med att inspelningen samt redigeringen av materialet som användes. Filmen visades på SVT i september 2014 under namnet 'Pimplare från Syrien'."
+    }
+]
